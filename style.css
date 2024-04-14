@@ -69,6 +69,3 @@ body {
 .search-input {
     background-color: transparent;
 }
-.search-input::placeholder {
-    color: red;
-}
